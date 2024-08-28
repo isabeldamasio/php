@@ -1,0 +1,22 @@
+body{
+    margin: 0;
+    padding:0;
+}
+#principal{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color:rgb(91, 126, 201);
+    height: 100%;
+};
+
+.xis{ /*capeta*/
+    background-color: bisque;
+    padding: 100px;
+}
+
+.textos{
+    font-family: Arial, Helvetica, sans-serif;
+    color: aliceblue;
+}
+
